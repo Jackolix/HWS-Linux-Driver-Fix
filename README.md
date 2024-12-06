@@ -34,7 +34,7 @@ cd HWS-Linux-Driver-Fix/scripts
 
 3. Run the installation script:
 ```bash
-sudo ./hws-dkms-install.sh
+sudo ./hws-ínstall.sh
 ```
 
 ## Original Driver Information
@@ -75,10 +75,6 @@ If you find additional issues or have improvements:
 1. Fork the repository
 2. Create a branch for your changes
 3. Submit a pull request with a clear description of your modifications
-
-## License
-
-[Include original driver license information here]
 
 ## Disclaimer
 
